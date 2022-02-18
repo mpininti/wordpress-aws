@@ -1,2 +1,2 @@
 # wordpress-aws
-CloudFormation to create a single instance WordPress on EC2 pass
+CloudFormation to create a single instance WordPress on EC2 pass gttt
